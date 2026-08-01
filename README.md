@@ -1,5 +1,7 @@
 # Hello-bun
- I'm a Database Contractor on a coding journey and modern development tools.
+
+I have a background in database administration and enjoy learning new technologies.
+I'm currently building my programming skills by creating projects and improving every day.
 
 # Joke Section:
  Q: What do you Acall a sleeping bull?
