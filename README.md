@@ -1,3 +1,6 @@
 # Hello-bun
+ I'm a Database Contractor on a coding journey and modern development tools.
 
-This repository contains my first JavaScript project, built while learning Bun and Git. It reflects my hands-on journey in writing code, managing files, and building confidence with version control.
+##
+ Q: What do you Acall a sleeping bull?
+ A: A bulldozer.
