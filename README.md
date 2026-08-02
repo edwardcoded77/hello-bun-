@@ -5,11 +5,12 @@ Building web projects, exploring modern technologies, and continuously growing a
 This project is part of my Git and GitHub learning journey.
 
 ## Learning Goals
-* Learn Git basics
-* Practice GitHub workflows
-* Build confidence with version control
+* Creating and managing GitHub issues
+* Using Git for version control
+* Writing meaningful commit messages
+* Closing issues automatically with commit keywords
 
 ## Joke Section:
- **Q:** What do you call a sleeping bull? 
+ **Q: What do you call a sleeping bull? 
  
- **A:** A bulldozer.
+ **A: A bulldozer.
