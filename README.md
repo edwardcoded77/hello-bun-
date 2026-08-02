@@ -1,6 +1,6 @@
 # Hi, I'm Gbenga.
 
-Aspiring developer passionate about web technologies, problem solving, and creating applications that make a positive impact.
+Building web projects, exploring modern technologies, and continuously growing as a developer.
 
 ## Joke Section:
  **Q:** What do you call a sleeping bull? 
