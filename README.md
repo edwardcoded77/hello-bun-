@@ -12,9 +12,9 @@ This project is part of my Git and GitHub learning journey.
 
  
 ## Fun Facts
-* I enjoy learning new programming skills.
-* I like solving technical problems.
-* I enjoy exploring new technologies.
+* I started my journey by learning web development and continue to expand my technical skills.
+* I enjoy using Git and GitHub to organize projects and track my progress.
+* I like turning ideas into working applications through coding.
 
 ## Joke Section:
  **Q:** What do you call a sleeping bull? 
