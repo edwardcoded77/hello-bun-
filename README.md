@@ -1,7 +1,6 @@
 # Hi, I'm Gbenga.
 
-I have a background in database administration and enjoy learning new technologies.
-I'm currently building my programming skills by creating projects and improving every day.
+Aspiring developer passionate about web technologies, problem solving, and creating applications that make a positive impact.
 
 ## Joke Section:
  **Q:** What do you call a sleeping bull? 
