@@ -10,6 +10,12 @@ This project is part of my Git and GitHub learning journey.
 * Writing meaningful commit messages
 * Closing issues automatically with commit keywords
 
+ 
+## Fun Facts
+* I enjoy learning new programming skills.
+* I like solving technical problems.
+* I enjoy exploring new technologies.
+
 ## Joke Section:
  **Q:** What do you call a sleeping bull? 
  
