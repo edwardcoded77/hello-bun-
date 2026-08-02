@@ -11,6 +11,6 @@ This project is part of my Git and GitHub learning journey.
 * Closing issues automatically with commit keywords
 
 ## Joke Section:
- **Q: What do you call a sleeping bull? 
+ **Q:** What do you call a sleeping bull? 
  
- **A: A bulldozer.
+ **A:** A bulldozer.
